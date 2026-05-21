@@ -1,5 +1,5 @@
 // Substitua pelo número real da empresa
-const WHATSAPP_NUMBER = "+5531971063557"; // DDI + DDD + número, sem espaços
+const WHATSAPP_NUMBER = "+5531992848615"; // DDI + DDD + número, sem espaços
 const WHATSAPP_MSG =
   "Olá! Gostaria de solicitar um orçamento para revitalização de madeira.";
 
